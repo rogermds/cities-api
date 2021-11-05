@@ -40,15 +40,15 @@ https://salty-eyrie-95198.herokuapp.com/countries
 - {y} = Campo da tabela ["id", "name", "portugueseName", "code","bacen"]
 - {z} = Ordem a ser exibibida, crescente ou decrescente [asc, desc]
 
-https://salty-eyrie-95198.herokuapp.com/countries?page={w}&size={x}&sort={y},{z}
+https://salty-eyrie-95198.herokuapp.com/countries?page= {w} &size= {x} &sort= {y} , {z}
 
 - Também é possível acessar um único país por id pelos end points:
 
-https://salty-eyrie-95198.herokuapp.com//contries/{id}
+https://salty-eyrie-95198.herokuapp.com/countries/ {id}
 
 - Para calcular a distancia entre duas cidades em metros:
 
-https://salty-eyrie-95198.herokuapp.com/distances/by-cube?from={id}&to={id}
+https://salty-eyrie-95198.herokuapp.com/distances/by-cube?from= {id} &to= {id}
 
 # Autor
 
