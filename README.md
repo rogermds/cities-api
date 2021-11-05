@@ -35,10 +35,10 @@ https://salty-eyrie-95198.herokuapp.com/countries
 
 - Os países contém uma paginação que pode ser alterada pelos seguintes end points:
 
-• {w} = Número da página que será exibido
-• {x} = Quantidade de itens que serão exibidos por página
-• {y} = Campo da tabela ["id", "name", "portugueseName", "code","bacen"]
-• {z} = Ordem a ser exibibida, crescente ou decrescente [asc, desc]
+- {w} = Número da página que será exibido
+- {x} = Quantidade de itens que serão exibidos por página
+- {y} = Campo da tabela ["id", "name", "portugueseName", "code","bacen"]
+- {z} = Ordem a ser exibibida, crescente ou decrescente [asc, desc]
 
 https://salty-eyrie-95198.herokuapp.com/countries?page={w}&size={x}&sort={y},{z}
 
